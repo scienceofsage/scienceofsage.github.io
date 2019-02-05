@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "MUSIC: THE LIFE SOURCE"
+title: "MUSIC: The Life Source"
 img: music.jpg # Add image post (optional)
 date: 2019-02-02 23:25:00 +0300
 description: # Add post description (optional)
 tag: [Music, Blogging, Spirituality]
 ---
-Everybody likes hearing songs when he or she is happy or sad or have nothing to do but ever wondered what the sound can actually do to your body?
+Everybody likes hearing songs when they is happy or sad or have nothing to do but ever wondered what the sound can actually do to your body?
 
 Well... the truth must be spoken. The fact is that we have always perceived sound in terms of notes, harmony, and softness but let us re-visit the technical terms once taught to us in our school days-- frequency, vibrations, wavelengths, etc.
 
