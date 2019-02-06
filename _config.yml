@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Mindfulness is Awesome  # add banner title
-banner-desc: Part time Engineer, Full time entrepreneur and all time curious blogger # add banner description
+banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
